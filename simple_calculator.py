@@ -6,7 +6,8 @@ print(num2)
 print()
 print("Choose an operation (+, -, *, /): ")             # As for operation to perform
 print()
-addition = input("")
+"""addition = input("")
 subtraction = input("")
 multiply = input("")
-division = input("")
+division = input("")"""
+print("End.")
